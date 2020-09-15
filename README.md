@@ -1,0 +1,2 @@
+# Instant-Inspiration
+Instant Inspiration
